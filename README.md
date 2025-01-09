@@ -1,2 +1,2 @@
 # icons
-icons courses
+icons courses svg
